@@ -1,6 +1,7 @@
+
 tabase Assignment: Star Schema Design
 
-Welcome to our Database Assignment repository! This project is a collaborative effort between Afakari and keynooshh  for our database course. Our goal is to implement a simple star schema design that supports efficient analytical queries and data processing in PostgresSQL database.
+Welcome to our Database Assignment repository! This project is a collaborative effort between [Afakari](https://github.com/Afakari) and [keynooshh](https://github.com/keynooshh)  for our database course. Our goal is to implement a simple star schema design that supports efficient analytical queries and data processing in PostgresSQL database.
 
 
 
