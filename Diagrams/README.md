@@ -27,4 +27,4 @@ This directory contains visual representations of the database schema and design
 -   These diagrams are for reference and documentation purposes.
 -   Ensure any updates to the schema are reflected in a new version of the `actual_ERD.png` file.
 
-For further details about the project, refer to the main [README.md](https://chatgpt.com/README.md).
+For further details about the project, refer to the main [README.md](../README.md).
