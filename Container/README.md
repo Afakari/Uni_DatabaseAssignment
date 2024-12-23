@@ -1,8 +1,7 @@
-ontainer Setup
+Container Setup
 
-This directory contains all the resources needed to set up and manage the database environment using Docker.
+This directory contains a guide for managing the database environment using Docker.
 
----
 
 ## Contents
 - **backups/**: Includes database backup files.
