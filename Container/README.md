@@ -11,8 +11,6 @@ This directory contains a guide for managing the database environment using Dock
 - **scripts/**: Contains helper scripts for managing the database.
   - `restore_script.sh`: A helper script integrated into Docker's `init.d` process. It restores the schema and populates the database with data using simple SQL and PGPL/SQL commands.
 
----
-
 ## Setting Up the Environment
 
 1. Ensure you have Docker and Docker Compose installed on your system.
@@ -25,7 +23,6 @@ This directory contains a guide for managing the database environment using Dock
    - Automatically recreate the schema and populate the database with data using `restore_script.sh`.
    - Launch a pgAdmin4 instance for managing the database.
 
----
 
 ## Access Information
 
@@ -38,8 +35,6 @@ This directory contains a guide for managing the database environment using Dock
 - **Hostname**: postgresdb
 - **Username**: admin
 - **Password**: admin
-
----
 
 ## Additional Notes
 - To stop the services, run:
